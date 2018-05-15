@@ -1,3 +1,14 @@
+To launch in c9: 
+
+//Cd to the practice folder
+$ cd practice
+$ ng serve --host $IP --port $PORT --public $C9_HOSTNAME
+
+# Update
+
+5/15/18 I'm at Section 5 of this tutorial
+https://angular.io/tutorial/toh-pt3
+
 # Practice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
