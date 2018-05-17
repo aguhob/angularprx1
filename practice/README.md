@@ -6,7 +6,9 @@ $ ng serve --host $IP --port $PORT --public $C9_HOSTNAME
 
 # Update
 
-5/15/18 I'm at Section 5 of this tutorial
+5/17/18 I'm at Section 6 of this tutorial, stuck at 
+$ constructor(private messageService: MessageService) { }
+
 https://angular.io/tutorial/toh-pt3
 
 # Practice
